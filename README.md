@@ -1,6 +1,6 @@
 # Hospital-Management-System
 
-# NAME:ABIANYA A
+# NAME:ABINAYA A
 # REGNO:212223040003
 
 # USECASE DIAGRAM:
